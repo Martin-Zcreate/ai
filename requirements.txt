@@ -1,3 +1,4 @@
+simplejson>=3.16.0
 pyecharts>=2.0.5
 jieba>=0.42.1
 matplotlib>=3.5.2
